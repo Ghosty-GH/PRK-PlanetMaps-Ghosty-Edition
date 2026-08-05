@@ -6,6 +6,7 @@ PRK Planet Maps - Ghosty Edition - for Project Rubi-Ka (Anarchy Online patch 18.
 ------
 
 Installation :
+
 Navigate to your PlaneMap folder for PRK Client, <your drive> : <your installation path> \ client \ cd_image \ textures \ PlanetMap \
 
 Delete all sub-folders and files in this folder (PlanetMap)
@@ -38,19 +39,19 @@ Peace 'Dovve' Forejt
 
 Default FC planet map - patch 18.4.0 - by FunCom
 
-PRK Map 4K v1.3 - by Everkill
+* PRK Map 4K v1.3 - by Everkill
 
-PRK Map 2K v1.3 - by Everkill
+* PRK Map 2K v1.3 - by Everkill
 
-Saavick's Map of Rubi-Ka - by Saavick's v3.3
+* Saavick's Map of Rubi-Ka - by Saavick's v3.3
 
-Saavick's Map of Rubi-Ka - 2x size - by Saavick's v3.3
+* Saavick's Map of Rubi-Ka - 2x size - by Saavick's v3.3
 
 
 Maps for Shadowlands :
 
-NewShadowlands
+* NewShadowlands
 
-SLmap v2.22 Normal (2022) - by Bitnykk
+* SLmap v2.22 Normal (2022) - by Bitnykk
 
-SLmap v2.22 Wide (2022) - by Bitnykk
+* SLmap v2.22 Wide (2022) - by Bitnykk
