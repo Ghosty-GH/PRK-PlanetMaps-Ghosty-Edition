@@ -5,7 +5,7 @@ PRK Planet Maps - Ghosty Edition - for Project Rubi-Ka (Anarchy Online patch 18.
 
 Note:
 
-If the Developers of Project Rubi-Ka wants to use this map pack in the Client Installation they are welcome to do it!
+If the Developers of Project Rubi-Ka want to use this map pack in the Client Installation they are welcome to do it !
 
 ------
 
