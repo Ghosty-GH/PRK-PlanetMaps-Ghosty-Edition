@@ -14,6 +14,9 @@ Copy/Move the sub-folders and files from where you have un-packed the file PRK-P
 
 Done and now enjoy the maps in PRK
 
+
+
+
 If you get error when opening planet maps in-game via "P" you can manually set what maps to use :
 
 For Rubi-Ka type : /setoption PlanetMapIndexFile "Normal/PlanetMapIndexNormal.txt"
