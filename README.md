@@ -23,20 +23,32 @@ For Shdowlands type : /setoption ShadowlandMapIndexFile "SLmap/SLmap.txt"
 ------
 
 Change Log :
+
 v1.0 - 2026-08-05
+
 Initial release of my library of a few Planet Maps that replace the Default map library of the PRK Client installation.
 
 What is included.
 
 Maps for Rubi-Ka :
+
 Peace 'Dovve' Forejt
+
 Default FC planet map - patch 18.4.0 - by FunCom
+
 PRK Map 4K v1.3 - by Everkill
+
 PRK Map 2K v1.3 - by Everkill
+
 Saavick's Map of Rubi-Ka - by Saavick's v3.3
+
 Saavick's Map of Rubi-Ka - 2x size - by Saavick's v3.3
 
+
 Maps for Shadowlands :
+
 NewShadowlands
+
 SLmap v2.22 Normal (2022) - by Bitnykk
+
 SLmap v2.22 Wide (2022) - by Bitnykk
