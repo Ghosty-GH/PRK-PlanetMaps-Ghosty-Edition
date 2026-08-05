@@ -11,7 +11,7 @@ If the Developers of Project Rubi-Ka want to use this map pack in the Client Ins
 
 Installation :
 
-* Navigate to your PlaneMap folder for PRK Client, "your drive" : "your installation path" \ client \ cd_image \ textures \ PlanetMap \
+* Navigate to your PlaneMap folder for PRK Client, "your drive" : \ "your installation path" \ client \ cd_image \ textures \ PlanetMap \
 
 * Delete all sub-folders and files in this folder ( \PlanetMap )
 
