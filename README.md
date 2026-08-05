@@ -3,13 +3,17 @@ a replacement pack of the Default Maps in installation of PRK Client
 
 PRK Planet Maps - Ghosty Edition - for Project Rubi-Ka (Anarchy Online patch 18.4)
 
+Note:
+
+If the Developers of Project Rubi-Ka wants to use this map pack in the Client Installation they are welcome to do it!
+
 ------
 
 Installation :
 
-* Navigate to your PlaneMap folder for PRK Client, <your drive> : <your installation path> \ client \ cd_image \ textures \ PlanetMap \
+* Navigate to your PlaneMap folder for PRK Client, "your drive" : "your installation path" \ client \ cd_image \ textures \ PlanetMap \
 
-* Delete all sub-folders and files in this folder (PlanetMap)
+* Delete all sub-folders and files in this folder ( \PlanetMap )
 
 * Copy/Move the sub-folders and files from where you have un-packed the file PRK-PlanetMaps-Ghosty-Edition-vX.Y.zip
 
