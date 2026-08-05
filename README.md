@@ -7,21 +7,21 @@ PRK Planet Maps - Ghosty Edition - for Project Rubi-Ka (Anarchy Online patch 18.
 
 Installation :
 
-Navigate to your PlaneMap folder for PRK Client, <your drive> : <your installation path> \ client \ cd_image \ textures \ PlanetMap \
+* Navigate to your PlaneMap folder for PRK Client, <your drive> : <your installation path> \ client \ cd_image \ textures \ PlanetMap \
 
-Delete all sub-folders and files in this folder (PlanetMap)
+* Delete all sub-folders and files in this folder (PlanetMap)
 
-Copy/Move the sub-folders and files from where you have un-packed the file PRK-PlanetMaps-Ghosty-Edition-vX.Y.zip
+* Copy/Move the sub-folders and files from where you have un-packed the file PRK-PlanetMaps-Ghosty-Edition-vX.Y.zip
 
-Done and now enjoy the maps in PRK
+* Done and now enjoy the maps in PRK
 
 Note :
 
 If you get error when opening planet maps in-game via "P" you can manually set what maps to use :
 
-For Rubi-Ka type : /setoption PlanetMapIndexFile "Normal/PlanetMapIndexNormal.txt"
+* For Rubi-Ka type : /setoption PlanetMapIndexFile "Normal/PlanetMapIndexNormal.txt"
 
-For Shdowlands type : /setoption ShadowlandMapIndexFile "SLmap/SLmap.txt"
+* For Shdowlands type : /setoption ShadowlandMapIndexFile "SLmap/SLmap.txt"
 
 ------
 
@@ -35,9 +35,9 @@ What is included.
 
 Maps for Rubi-Ka :
 
-Peace 'Dovve' Forejt
+* Peace 'Dovve' Forejt
 
-Default FC planet map - patch 18.4.0 - by FunCom
+* Default FC planet map - patch 18.4.0 - by FunCom
 
 * PRK Map 4K v1.3 - by Everkill
 
