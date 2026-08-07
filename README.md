@@ -25,7 +25,7 @@ If you get error when opening planet maps in-game via "P" you can manually set w
 
 * For Rubi-Ka type : /setoption PlanetMapIndexFile "Normal/PlanetMapIndexNormal.txt"
 
-* For Shdowlands type : /setoption ShadowlandMapIndexFile "SLmap/SLmap.txt"
+* For Shadowlands type : /setoption ShadowlandMapIndexFile "SLmap/SLmap.txt"
 
 ------
 
